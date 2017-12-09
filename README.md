@@ -32,8 +32,8 @@ parts to be able to make the application complete!
     
  ### Possible Bugs/Issues 
  
- - As of now the only known Bug is with the user name of your PC/Mac. If you have any space in your actual name itll cause an
- optional null space that will cause the app to bug out on the seconf UI.
+ - As of now the only known Bug is with the user name of your PC/Mac. If you have any space in your actual name it'll cause an
+ optional null space that will cause the app to bug out on the second UI.
 
 #### Contact Me 
 
