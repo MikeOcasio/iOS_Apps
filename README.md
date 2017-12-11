@@ -1,6 +1,6 @@
 
 
-# iOS_Apps
+# iOS_PitchPerfectApp
 
 This is an applications Repo made for the Application called `PitchPerfet` in Collaboration with Udacity which provided the
 icons, images, and other parts of the code.  
