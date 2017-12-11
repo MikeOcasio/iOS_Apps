@@ -2,8 +2,8 @@
 
 # iOS_Apps
 
-This is an application made in collaboration with Udacity which provided the icons and other
-parts to be able to make the application complete!
+This is an applications Repo made for the Application called `PitchPerfet` in Collaboration with Udacity which provided the
+icons, images, and other parts of the code.  
 
 ## Contents and Descriptions 
 
@@ -39,5 +39,5 @@ parts to be able to make the application complete!
 
 #### Contact Me 
 
-- Any Questions or to contribute in making this a better app contact me with the following link:
+- Any Questions or to contribute in making this a better app `Contact Me` with the following link:
     - https://twitter.com/Michael_Ocasio1
