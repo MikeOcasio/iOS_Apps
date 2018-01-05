@@ -2,8 +2,7 @@
 
 # iOS_PitchPerfectApp
 
-This is an applications Repo made for the Application called `PitchPerfet` in Collaboration with Udacity which provided the
-icons, images, and other parts of the code.  
+This is an applications Repo made for the Application called `PitchPerfet` in Collaboration with Udacity which provided the icons, images, and other parts of the code.  
 
 ## Contents and Descriptions 
 
@@ -39,5 +38,5 @@ icons, images, and other parts of the code.
 
 #### Contact Me 
 
-- Any Questions or to contribute in making this a better app `Contact Me` with the following link:
-    - https://twitter.com/Michael_Ocasio1
+- Any Questions or to contribute in making this a better app [Contact Me](https://twitter.com/Michael_Ocasio1) on Twitter.
+
